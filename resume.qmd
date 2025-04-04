@@ -1,89 +1,96 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Thomas Meilstrup's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
+# Thomas Meilstrup
+Bioinformatician and Musician.
 
 ## Currently
 
-Standing on the shoulders of giants
+Intern at BYU studying respiratory diseases with Chantel Sloan-Aagard
 
-### Specialized in
+### Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Social Media Management. Computer Skills – Introductory Python, R, & SQL. Capable Leader and Teacher. Quick Learner. Researcher
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Genetics, Molecular Biology, Biochemistry.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Fall 2017 - Spring 2021`
+__Chaparral High School – Parker, CO__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`FALL 2021 – SPRING 2022, Fall 2024 -- PRESENT  `
+__Brigham Young University - Idaho – Rexburg, ID__
 
-- Sizar
+- Currently Majoring in Biology with an Emphasis in Bioinformatics.
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Member of the PhD Research Honor Society.
 
-- Fellow
-
+- Participating in an extracurricular research team doing PCR diagnostics for metabolic syndrome and Least Chub range testing.
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+__Boy Scouts__
 
-Associate, *French Academy of Science*, Paris, France
+`2017`
+Eagle Scout
+
+__Chaparral Band__
+
+`2021`
+- John Philip Sousa Band Award
+- Senior Outstanding Band Student
+- Outstanding Citizenship Award
 
 
 
-## Publications
+## Work and Volunteer Experiece
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+### Dairy Queen – Cashier
+`JUNE 2024 – SEPTEMBER 2024`
+Managed drive-through transactions.  Assisted in closing most nights.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+### California, San Diego Mission – Social Media Leader
+`MAY 2023 – MAY 2024`
+Led and Managed social media teams while a volunteer missionary. Teams included Analytics, Graphic Design, Messaging, Video Production, and others.
 
-`1669`
-Lectiones opticæ.
+### Church of Jesus Christ of Latter-day Saints – Missionary
+`MAY 2022 – MAY 2024`
+Effectively provided humanitarian assistance and training to several thousand people over a two-year period in San Diego CA.
 
-etc. etc. etc.
+### Regal Cinemas – Floor Staff
+`SPRING 2021 – SPRING 2022`
+Cleaned movie theatres, sold concessions and tickets.
 
-### Patents
+### HoneyBaked Ham Co. – Crew Member
+`DECEMBER 2019`
+Seasonal job wrapping, facing, and weighing hams and turkeys
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+### King Soopers – Courtesy Clerk
+`JUNE 2019 – AUGUST 2019`
+Bagged Groceries, Faced Shelves, Gathered carts
 
+### Stonegate Pool – Snack Shack
+`SUMMER 2017 – SUMMER 2021`
+Staffed the snack shack at the pool on a volunteer basis each summer as a fundraiser for the Chaparral Marching Band.
 
-## Occupation
+### Douglas County Libraries – Teen Library Council 
+`SPRING 2016 – SPRING 2021`
+Planned, executed, and hosted various library events each month.
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+### CHEIM Elementary Band Camp -- Director’s Assistant
+`SUMMER 2015 – SUMMER 2019`
+Led sectionals for elementary students at a weeklong camp every year.
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025 -->
